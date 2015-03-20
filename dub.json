@@ -1,0 +1,10 @@
+{
+	"name" : "libultragraph",
+	"description" : "libUltraGraph: Comprehensive library of graph and hypergraph data structures and algorithms",
+	"authors" : ["Doug Nickerson"],
+	"targetType": "library",
+	"targetPath": "lib",
+	"targetName": "libUltraGraph",
+	"dependencies" : {
+	},
+}
