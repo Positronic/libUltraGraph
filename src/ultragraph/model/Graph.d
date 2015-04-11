@@ -5,7 +5,7 @@
  * a graph, what kind of graph it is, and what graph capabilities it has.
  * In addition to these templates, this module provides a number of
  * object and interface definitions that can be used to wrap around 
- * concrete 
+ * concrete implementations.
  *
  * Conceptually, Graph and it's derived interfaces can be thought
  * of as graph-based analogs to the hierarchy of Phobos Range interfaces.
